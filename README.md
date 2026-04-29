@@ -12,7 +12,7 @@
 
 ---
 
-### 🧠 Core Intelligence (Интеллект системы)
+### 🧠 Core Intelligence
 
 * **Deep Resume Scoring:** Advanced compatibility analysis using **Gemini 3.1 Flash** to evaluate seniority, soft skills, and experience consistency.
 * **Background Verification (OSINT-light):** Autonomous checks across **LinkedIn & GitHub** to verify candidate activity and professional background.
