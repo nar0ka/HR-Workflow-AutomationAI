@@ -5,7 +5,7 @@
 ---
 
 ### 🛠 System Architecture
-![Ghost Recruiter Architecture](https://raw.githubusercontent.com/nar0ka/HR-Workflow-AutomationAI/main/architecture_placeholder.png)
+![Ghost Recruiter Architecture](изображение_2026-04-30_005659319.png)
 
 > **Why Ghost Recruiter?**
 > Recruiters spend 70% of their time on manual resume screening and repetitive follow-ups. Ghost Recruiter is an autonomous AI ecosystem that replicates the operations of an entire HR department by understanding context, verifying data, and continuously learning from its own decisions.
