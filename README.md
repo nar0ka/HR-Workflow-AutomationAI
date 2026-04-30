@@ -47,4 +47,7 @@
 * **Integrations:** LinkedIn Search, GitHub API, Calendly
 
 ---
+[**👉 Get Full Access on Gumroad**](https://naroka.gumroad.com)
+
+
 *Developed by [Naroka Studio](https://github.com/nar0ka)*
