@@ -47,7 +47,7 @@
 * **Integrations:** LinkedIn Search, GitHub API, Calendly
 
 ---
-[**👉 Get Full Access **]([https://naroka.gumroad.com](https://github.com/nar0ka/Ghost-Recruiter---AI-Resume-Screening)
+[**👉 Get Full Access **](https://github.com/nar0ka/Ghost-Recruiter---AI-Resume-Screening)
 
 ---
 
