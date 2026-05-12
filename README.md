@@ -1,3 +1,4 @@
+
 # 👤 Ghost Recruiter AI: The Future of Autonomous Hiring
 
 ![n8n](https://img.shields.io/badge/n8n-Enterprise-red) ![AI](https://img.shields.io/badge/AI-Gemini%203.1%20Flash-blue) ![Role](https://img.shields.io/badge/Role-Senior%20Recruiter-orange) ![Status](https://img.shields.io/badge/Status-Production%20Ready-green)
